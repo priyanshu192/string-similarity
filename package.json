@@ -1,6 +1,6 @@
 {
   "name": "string-similarity",
-  "version": "4.0.4",
+  "version": "5.0.0",
   "description": "Finds degree of similarity between strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.",
   "main": "src/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aceakash/string-similarity.git"
+    "url": "git://github.com/priyanshu192/string-similarity.git"
   },
   "keywords": [
     "strings",
@@ -29,7 +29,7 @@
     "src/index.js",
     "umd/string-similarity.min.js"
   ],
-  "author": "Akash Kurdekar <npm@kurdekar.com> (http://untilfalse.com/)",
+  "author": "Priyansh Rajput",
   "license": "ISC",
   "devDependencies": {
     "jasmine": "^3.6.3",
